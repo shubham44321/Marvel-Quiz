@@ -1,0 +1,15 @@
+{
+  "name": "marvel-quiz",
+  "version": "1.0.0",
+  "description": "Mcu quiz cli app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Marvel-quiz"
+  },
+  "author": "Shubham",
+  "license": "ISC"
+}
